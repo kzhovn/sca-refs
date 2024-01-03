@@ -14,6 +14,6 @@ module.exports = {
     'no-console': 'off',
   },
   parserOptions: {
-    parser: 'babel-eslint',
+    parser: '@babel/eslint-parser',
   },
 };
